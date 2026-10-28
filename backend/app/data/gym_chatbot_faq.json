@@ -1,0 +1,850 @@
+{
+  "schema_version": "1.0",
+  "dataset_name": "Stride Chatbot FAQ",
+  "language": "en-IN",
+  "updated_on": "2026-10-25",
+  "total_questions": 104,
+  "notes": "Items in [SQUARE BRACKETS] and https://yourgym.com URLs are placeholders. Replace with real gym details before use.",
+  "fields": {
+    "id": "Unique question identifier",
+    "category": "FAQ category",
+    "question": "User-facing question",
+    "answer": "Crisp chatbot response",
+    "link_text": "CTA label",
+    "url": "Relevant gym webpage"
+  },
+  "questions": [
+    {
+      "id": "gym_001",
+      "category": "Membership plans and pricing",
+      "question": "What membership plans do you offer?",
+      "answer": "We offer [PLAN NAMES] plans, from monthly to annual, with options for general fitness and personalised health programmes.",
+      "link_text": "View the plans",
+      "url": "https://yourgym.com/membership"
+    },
+    {
+      "id": "gym_002",
+      "category": "Membership plans and pricing",
+      "question": "How much does a membership cost?",
+      "answer": "Plans start at [PRICE] per month. The final cost depends on the plan and its duration.",
+      "link_text": "View pricing",
+      "url": "https://yourgym.com/membership"
+    },
+    {
+      "id": "gym_003",
+      "category": "Membership plans and pricing",
+      "question": "Is there a joining or registration fee?",
+      "answer": "[JOINING FEE DETAILS]. Any fee is shown clearly on the plan page before you pay.",
+      "link_text": "View pricing",
+      "url": "https://yourgym.com/membership"
+    },
+    {
+      "id": "gym_004",
+      "category": "Membership plans and pricing",
+      "question": "What is the difference between your plans?",
+      "answer": "Basic plans cover gym access. Premium plans add personal training, health-based assessments and personalised diet planning.",
+      "link_text": "Compare plans",
+      "url": "https://yourgym.com/membership"
+    },
+    {
+      "id": "gym_005",
+      "category": "Membership plans and pricing",
+      "question": "Do you offer a free trial?",
+      "answer": "[TRIAL POLICY]. You can also book a visit to see the gym, meet our trainers and ask questions before joining.",
+      "link_text": "Book a visit",
+      "url": "https://yourgym.com/contact-us"
+    },
+    {
+      "id": "gym_006",
+      "category": "Membership plans and pricing",
+      "question": "Do longer plans cost less?",
+      "answer": "Yes. Quarterly, half-yearly and annual plans usually work out cheaper per month. [DISCOUNT DETAILS]",
+      "link_text": "View pricing",
+      "url": "https://yourgym.com/membership"
+    },
+    {
+      "id": "gym_007",
+      "category": "Membership plans and pricing",
+      "question": "Do you have couple, family or group memberships?",
+      "answer": "[GROUP PLAN DETAILS]. Please contact us to find the best combined option for you.",
+      "link_text": "Contact us",
+      "url": "https://yourgym.com/contact-us"
+    },
+    {
+      "id": "gym_008",
+      "category": "Membership plans and pricing",
+      "question": "Are there student or senior citizen discounts?",
+      "answer": "[DISCOUNT ELIGIBILITY]. Please contact us with your details and we will confirm what applies.",
+      "link_text": "Contact us",
+      "url": "https://yourgym.com/contact-us"
+    },
+    {
+      "id": "gym_009",
+      "category": "Membership plans and pricing",
+      "question": "What payment methods do you accept?",
+      "answer": "We accept [PAYMENT METHODS, e.g. UPI, cards, net banking and cash].",
+      "link_text": "View pricing",
+      "url": "https://yourgym.com/membership"
+    },
+    {
+      "id": "gym_010",
+      "category": "Membership plans and pricing",
+      "question": "Can I pay in instalments?",
+      "answer": "[INSTALMENT POLICY]. Our team can explain the available payment options for your chosen plan.",
+      "link_text": "Contact us",
+      "url": "https://yourgym.com/contact-us"
+    },
+    {
+      "id": "gym_011",
+      "category": "Membership plans and pricing",
+      "question": "Can I freeze my membership?",
+      "answer": "[FREEZE POLICY]. Freezing is usually available for travel, illness or recovery periods with prior notice.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/membership"
+    },
+    {
+      "id": "gym_012",
+      "category": "Membership plans and pricing",
+      "question": "Can I upgrade or change my plan later?",
+      "answer": "Yes, you can usually move to a higher plan at any time. [UPGRADE TERMS]",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/membership"
+    },
+    {
+      "id": "gym_013",
+      "category": "Membership plans and pricing",
+      "question": "Is my membership refundable or transferable?",
+      "answer": "[REFUND AND TRANSFER POLICY]. Please check the terms on the plan page or ask our team before paying.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/membership"
+    },
+    {
+      "id": "gym_014",
+      "category": "Membership plans and pricing",
+      "question": "Are personal training and diet plans included in my membership?",
+      "answer": "This depends on the plan. Premium plans include [INCLUSIONS], while others can add them as extras.",
+      "link_text": "Compare plans",
+      "url": "https://yourgym.com/membership"
+    },
+    {
+      "id": "gym_015",
+      "category": "Joining and onboarding",
+      "question": "How do I join the gym?",
+      "answer": "You can enrol online or visit us in person. Choose a plan, complete a short form and make the payment to get started.",
+      "link_text": "Join now",
+      "url": "https://yourgym.com/join"
+    },
+    {
+      "id": "gym_016",
+      "category": "Joining and onboarding",
+      "question": "Can I join online?",
+      "answer": "Yes. You can select a plan, submit your details and pay online. [ONLINE JOINING DETAILS]",
+      "link_text": "Join now",
+      "url": "https://yourgym.com/join"
+    },
+    {
+      "id": "gym_017",
+      "category": "Joining and onboarding",
+      "question": "What documents do I need to join?",
+      "answer": "You will need [ID PROOF AND OTHER DOCUMENTS]. Our team will confirm the full list when you enrol.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/join"
+    },
+    {
+      "id": "gym_018",
+      "category": "Joining and onboarding",
+      "question": "What happens on my first day?",
+      "answer": "A trainer will welcome you, show you around the gym and explain how the equipment and facilities work.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/join"
+    },
+    {
+      "id": "gym_019",
+      "category": "Joining and onboarding",
+      "question": "Will I get an orientation?",
+      "answer": "Yes. New members receive an orientation covering safe equipment use, gym etiquette and how to book sessions.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/join"
+    },
+    {
+      "id": "gym_020",
+      "category": "Joining and onboarding",
+      "question": "Can I visit the gym before joining?",
+      "answer": "Yes. You are welcome to visit, tour the facilities and speak with our trainers before you decide.",
+      "link_text": "Book a visit",
+      "url": "https://yourgym.com/contact-us"
+    },
+    {
+      "id": "gym_021",
+      "category": "Joining and onboarding",
+      "question": "Do I need to be fit before joining?",
+      "answer": "No. Members start at every fitness level, and your trainer will build a plan around where you are today.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/join"
+    },
+    {
+      "id": "gym_022",
+      "category": "Joining and onboarding",
+      "question": "What should I bring on my first day?",
+      "answer": "Bring comfortable workout clothes, sports shoes, a water bottle and a towel. If you have any medical reports, bring those too.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/join"
+    },
+    {
+      "id": "gym_023",
+      "category": "Joining and onboarding",
+      "question": "Is there a minimum age to join?",
+      "answer": "[MINIMUM AGE AND PARENTAL CONSENT POLICY]. Please contact us if you are unsure about eligibility.",
+      "link_text": "Contact us",
+      "url": "https://yourgym.com/contact-us"
+    },
+    {
+      "id": "gym_024",
+      "category": "Joining and onboarding",
+      "question": "How soon can I start after enrolling?",
+      "answer": "In most cases you can start the same day or within a few days, depending on trainer availability and your plan.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/join"
+    },
+    {
+      "id": "gym_025",
+      "category": "Joining and onboarding",
+      "question": "Will I get a workout plan when I join?",
+      "answer": "Yes. Your trainer will create a starter plan after understanding your goals, fitness level and any health needs.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/join"
+    },
+    {
+      "id": "gym_026",
+      "category": "Joining and onboarding",
+      "question": "Do I need to fill in a health form?",
+      "answer": "Yes. A short health form helps your trainer plan safely, especially if you have injuries, surgery history or lifestyle conditions.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/join"
+    },
+    {
+      "id": "gym_027",
+      "category": "Trainers and personalised coaching",
+      "question": "Who are your trainers?",
+      "answer": "Our trainers are experienced professionals who build personalised programmes for fitness, strength, weight management and recovery.",
+      "link_text": "Meet the trainers",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_028",
+      "category": "Trainers and personalised coaching",
+      "question": "Are your trainers certified?",
+      "answer": "Yes. Our trainers hold [CERTIFICATIONS] and keep their skills updated through regular training.",
+      "link_text": "Meet the trainers",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_029",
+      "category": "Trainers and personalised coaching",
+      "question": "How much experience do your trainers have?",
+      "answer": "Our team brings [YEARS OF EXPERIENCE] of combined experience, including work with members recovering from injuries and surgery.",
+      "link_text": "Meet the trainers",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_030",
+      "category": "Trainers and personalised coaching",
+      "question": "Can I choose my trainer?",
+      "answer": "Yes, subject to availability. Tell us your goals and we will suggest the trainer who suits you best.",
+      "link_text": "Meet the trainers",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_031",
+      "category": "Trainers and personalised coaching",
+      "question": "How does personal training work?",
+      "answer": "Your trainer assesses your goals and health, designs a plan, guides you through sessions and adjusts it as you progress.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_032",
+      "category": "Trainers and personalised coaching",
+      "question": "Can a trainer create a plan for my specific goal?",
+      "answer": "Yes. Whether your goal is weight loss, muscle gain, strength, mobility or recovery, your plan is built around it.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_033",
+      "category": "Trainers and personalised coaching",
+      "question": "Do trainers help complete beginners?",
+      "answer": "Absolutely. Trainers teach correct form, safe progression and basic gym use from the very first session.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_034",
+      "category": "Trainers and personalised coaching",
+      "question": "How often will my plan be updated?",
+      "answer": "Your plan is reviewed regularly, usually every [REVIEW FREQUENCY], or sooner if your goals or health change.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_035",
+      "category": "Trainers and personalised coaching",
+      "question": "Will my progress be tracked?",
+      "answer": "Yes. Your trainer tracks measurements, strength, endurance and other markers so you can see real progress.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_036",
+      "category": "Trainers and personalised coaching",
+      "question": "Can I change my trainer?",
+      "answer": "Yes. If you feel another trainer would suit you better, let our team know and we will arrange it.",
+      "link_text": "Contact us",
+      "url": "https://yourgym.com/contact-us"
+    },
+    {
+      "id": "gym_037",
+      "category": "Trainers and personalised coaching",
+      "question": "Do you have female trainers?",
+      "answer": "[TRAINER TEAM DETAILS]. Please contact us if you would like to train with a specific trainer.",
+      "link_text": "Meet the trainers",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_038",
+      "category": "Trainers and personalised coaching",
+      "question": "Do trainers guide me outside my sessions?",
+      "answer": "Your trainer can share home exercises and habit tips between sessions. [SUPPORT DETAILS]",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_039",
+      "category": "Trainers and personalised coaching",
+      "question": "How do I book personal training sessions?",
+      "answer": "You can book through [BOOKING METHOD] or at the front desk. Your trainer will help you set a regular schedule.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_040",
+      "category": "Injury or post-surgery fitness support",
+      "question": "Can I join if I am recovering from an injury?",
+      "answer": "Yes. Our trainers design careful, goal-based plans around your injury and your doctor's guidance.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/recovery-support"
+    },
+    {
+      "id": "gym_041",
+      "category": "Injury or post-surgery fitness support",
+      "question": "Can I start exercising after surgery?",
+      "answer": "Yes, once your doctor or physiotherapist has cleared you. Our trainers then plan safe, gradual strength and mobility work.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/recovery-support"
+    },
+    {
+      "id": "gym_042",
+      "category": "Injury or post-surgery fitness support",
+      "question": "Do your trainers have experience with recovery fitness?",
+      "answer": "Yes. Our trainers have extensive experience helping members rebuild strength and confidence after injuries and surgeries.",
+      "link_text": "Meet the trainers",
+      "url": "https://yourgym.com/trainers"
+    },
+    {
+      "id": "gym_043",
+      "category": "Injury or post-surgery fitness support",
+      "question": "What do I need to bring if I have an injury or surgery history?",
+      "answer": "Please bring your doctor's clearance, any exercise restrictions and recent reports. This helps us plan safely.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/recovery-support"
+    },
+    {
+      "id": "gym_044",
+      "category": "Injury or post-surgery fitness support",
+      "question": "How is a recovery plan created?",
+      "answer": "Your trainer reviews your medical clearance, current abilities and goals, then builds a gradual plan with suitable exercise modifications.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/recovery-support"
+    },
+    {
+      "id": "gym_045",
+      "category": "Injury or post-surgery fitness support",
+      "question": "Is this the same as physiotherapy?",
+      "answer": "No. Physiotherapy treats the injury, while our trainers support your fitness and strength with doctor-approved exercise.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/recovery-support"
+    },
+    {
+      "id": "gym_046",
+      "category": "Injury or post-surgery fitness support",
+      "question": "Can you work with my physiotherapist or doctor?",
+      "answer": "Yes. With your consent, trainers can follow the guidelines your physiotherapist or doctor provides.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/recovery-support"
+    },
+    {
+      "id": "gym_047",
+      "category": "Injury or post-surgery fitness support",
+      "question": "Can trainers help with back, knee or shoulder problems?",
+      "answer": "Trainers can plan training around these areas using your doctor's advice. They do not diagnose or treat the condition.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/recovery-support"
+    },
+    {
+      "id": "gym_048",
+      "category": "Injury or post-surgery fitness support",
+      "question": "How soon after surgery can I begin?",
+      "answer": "That depends on your surgery and your doctor's advice. We begin only after you have medical clearance.",
+      "link_text": "Contact us",
+      "url": "https://yourgym.com/contact-us"
+    },
+    {
+      "id": "gym_049",
+      "category": "Injury or post-surgery fitness support",
+      "question": "Will exercises be modified for my condition?",
+      "answer": "Yes. Movements, loads and intensity are adjusted to suit your recovery stage and comfort.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/recovery-support"
+    },
+    {
+      "id": "gym_050",
+      "category": "Injury or post-surgery fitness support",
+      "question": "How are progress and pain monitored?",
+      "answer": "Your trainer checks in at every session on comfort, movement quality and strength, and adjusts the plan accordingly.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/recovery-support"
+    },
+    {
+      "id": "gym_051",
+      "category": "Injury or post-surgery fitness support",
+      "question": "What if I feel pain during a workout?",
+      "answer": "Stop and tell your trainer immediately. If the pain is sharp, severe or does not settle, please consult your doctor.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_052",
+      "category": "Injury or post-surgery fitness support",
+      "question": "Do you have equipment suitable for recovery training?",
+      "answer": "[RECOVERY EQUIPMENT DETAILS, e.g. resistance bands, light weights and stability tools]. Our trainers will guide you on what suits you.",
+      "link_text": "View facilities",
+      "url": "https://yourgym.com/facilities"
+    },
+    {
+      "id": "gym_053",
+      "category": "Injury or post-surgery fitness support",
+      "question": "Is recovery coaching part of every plan?",
+      "answer": "[RECOVERY PLAN INCLUSIONS]. Please check with our team about the plan that best fits your recovery needs.",
+      "link_text": "Compare plans",
+      "url": "https://yourgym.com/membership"
+    },
+    {
+      "id": "gym_054",
+      "category": "Lifestyle-health fitness support",
+      "question": "Can I join if I have diabetes?",
+      "answer": "Yes. Regular exercise supports healthy blood sugar management, and your trainer will plan around your health and doctor's advice.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/lifestyle-health"
+    },
+    {
+      "id": "gym_055",
+      "category": "Lifestyle-health fitness support",
+      "question": "Do you support members with high cholesterol?",
+      "answer": "Yes. We build exercise and diet plans that support heart health, based on your test results and doctor's guidance.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/lifestyle-health"
+    },
+    {
+      "id": "gym_056",
+      "category": "Lifestyle-health fitness support",
+      "question": "Is exercise safe if I have high blood pressure?",
+      "answer": "Often yes, with the right plan. Please share your doctor's advice so your trainer can choose suitable exercises and intensity.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/lifestyle-health"
+    },
+    {
+      "id": "gym_057",
+      "category": "Lifestyle-health fitness support",
+      "question": "Can you help with weight management?",
+      "answer": "Yes. We combine a personalised exercise programme with a diet plan matched to your body, routine and goals.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/lifestyle-health"
+    },
+    {
+      "id": "gym_058",
+      "category": "Lifestyle-health fitness support",
+      "question": "Can exercise cure diabetes or cholesterol?",
+      "answer": "No. Exercise and diet support better control and overall health, but they do not replace medical care.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_059",
+      "category": "Lifestyle-health fitness support",
+      "question": "Should I keep taking my medicines?",
+      "answer": "Yes. Always follow your doctor's advice on medicines. Our programme works alongside your treatment, not in place of it.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_060",
+      "category": "Lifestyle-health fitness support",
+      "question": "How are plans personalised for lifestyle conditions?",
+      "answer": "Plans are built from your test results, health history, fitness level and daily routine, then reviewed regularly.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/lifestyle-health"
+    },
+    {
+      "id": "gym_061",
+      "category": "Lifestyle-health fitness support",
+      "question": "Do you have a dedicated lifestyle health programme?",
+      "answer": "Yes. Our [PROGRAMME NAME] programme offers personalised exercise and diet support for common lifestyle conditions.",
+      "link_text": "Explore the programme",
+      "url": "https://yourgym.com/lifestyle-health"
+    },
+    {
+      "id": "gym_062",
+      "category": "Lifestyle-health fitness support",
+      "question": "Is this suitable for older adults?",
+      "answer": "Yes. Plans focus on strength, balance, mobility and heart health at a comfortable pace for each member.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/lifestyle-health"
+    },
+    {
+      "id": "gym_063",
+      "category": "Lifestyle-health fitness support",
+      "question": "Can you help improve my energy and daily habits?",
+      "answer": "Yes. Along with training, your trainer can suggest practical habits around movement, nutrition and routine.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/lifestyle-health"
+    },
+    {
+      "id": "gym_064",
+      "category": "Lifestyle-health fitness support",
+      "question": "How often should I exercise with a lifestyle condition?",
+      "answer": "It depends on your health and fitness. Your trainer will set a safe, realistic schedule, usually building up gradually.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/lifestyle-health"
+    },
+    {
+      "id": "gym_065",
+      "category": "Lifestyle-health fitness support",
+      "question": "Will my trainer coordinate with my doctor?",
+      "answer": "With your permission, trainers can follow your doctor's guidelines. Please share any advice or restrictions you have.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/lifestyle-health"
+    },
+    {
+      "id": "gym_066",
+      "category": "Lifestyle-health fitness support",
+      "question": "What results can I expect?",
+      "answer": "Results vary from person to person. Most members notice better energy, strength and fitness, while health changes depend on many factors.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/lifestyle-health"
+    },
+    {
+      "id": "gym_067",
+      "category": "Diet and fitness assessments",
+      "question": "What is a fitness assessment?",
+      "answer": "It is a one-time check of your current fitness, such as strength, flexibility and endurance, used to plan your programme.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/assessments"
+    },
+    {
+      "id": "gym_068",
+      "category": "Diet and fitness assessments",
+      "question": "What does the assessment include?",
+      "answer": "It covers [ASSESSMENT COMPONENTS, e.g. body measurements, strength, flexibility, endurance and goal discussion].",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/assessments"
+    },
+    {
+      "id": "gym_069",
+      "category": "Diet and fitness assessments",
+      "question": "Is the assessment free?",
+      "answer": "[ASSESSMENT PRICING]. Please check your plan details or contact us to confirm.",
+      "link_text": "View pricing",
+      "url": "https://yourgym.com/membership"
+    },
+    {
+      "id": "gym_070",
+      "category": "Diet and fitness assessments",
+      "question": "How long does an assessment take?",
+      "answer": "It usually takes about [DURATION], so you can have it on your first visit.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/assessments"
+    },
+    {
+      "id": "gym_071",
+      "category": "Diet and fitness assessments",
+      "question": "Do I need to bring test results?",
+      "answer": "If you have recent blood tests or medical reports, please bring them. They help us personalise your diet and exercise plan.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/assessments"
+    },
+    {
+      "id": "gym_072",
+      "category": "Diet and fitness assessments",
+      "question": "Which medical reports are most useful?",
+      "answer": "Recent blood sugar, cholesterol and general health reports are most helpful, along with any doctor's notes or restrictions.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/assessments"
+    },
+    {
+      "id": "gym_073",
+      "category": "Diet and fitness assessments",
+      "question": "Who creates my diet plan?",
+      "answer": "Your diet plan is prepared by [DIETITIAN OR NUTRITION TEAM DETAILS] using your assessment and health information.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/assessments"
+    },
+    {
+      "id": "gym_074",
+      "category": "Diet and fitness assessments",
+      "question": "How is my diet plan personalised?",
+      "answer": "It reflects your goals, test results, activity level, food preferences and daily routine.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/assessments"
+    },
+    {
+      "id": "gym_075",
+      "category": "Diet and fitness assessments",
+      "question": "Can the diet plan suit my food preferences?",
+      "answer": "Yes. Plans can be vegetarian, non-vegetarian or based on the foods you enjoy and can easily get.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/assessments"
+    },
+    {
+      "id": "gym_076",
+      "category": "Diet and fitness assessments",
+      "question": "Do you recommend supplements?",
+      "answer": "[SUPPLEMENT POLICY]. We focus first on food and training, and supplements are only discussed when suitable.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/assessments"
+    },
+    {
+      "id": "gym_077",
+      "category": "Diet and fitness assessments",
+      "question": "How often will I be reassessed?",
+      "answer": "We reassess every [REASSESSMENT FREQUENCY] so your exercise and diet plan keeps up with your progress.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/assessments"
+    },
+    {
+      "id": "gym_078",
+      "category": "Diet and fitness assessments",
+      "question": "Are my reports and health details confidential?",
+      "answer": "Yes. Your information is used only to support your plan and is shared only with your consent.",
+      "link_text": "Read the Privacy Policy",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_079",
+      "category": "Diet and fitness assessments",
+      "question": "Is the diet plan a medical diet?",
+      "answer": "No. It is a fitness and lifestyle plan. For medical diets, please follow your doctor's or clinical dietitian's advice.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_080",
+      "category": "Classes, facilities, and gym hours",
+      "question": "What are your gym hours?",
+      "answer": "We are open [OPENING HOURS]. Hours may differ on holidays, so please check before visiting.",
+      "link_text": "View hours",
+      "url": "https://yourgym.com/facilities"
+    },
+    {
+      "id": "gym_081",
+      "category": "Classes, facilities, and gym hours",
+      "question": "Are you open on Sundays and public holidays?",
+      "answer": "[WEEKEND AND HOLIDAY HOURS]. Please check our latest timings before you visit.",
+      "link_text": "View hours",
+      "url": "https://yourgym.com/facilities"
+    },
+    {
+      "id": "gym_082",
+      "category": "Classes, facilities, and gym hours",
+      "question": "What classes do you offer?",
+      "answer": "We offer [CLASS TYPES, e.g. strength, cardio, yoga and mobility] classes for different levels.",
+      "link_text": "View classes",
+      "url": "https://yourgym.com/classes"
+    },
+    {
+      "id": "gym_083",
+      "category": "Classes, facilities, and gym hours",
+      "question": "Where can I see the class timetable?",
+      "answer": "The latest timetable is on our classes page. Timings may change, so please check before booking.",
+      "link_text": "View classes",
+      "url": "https://yourgym.com/classes"
+    },
+    {
+      "id": "gym_084",
+      "category": "Classes, facilities, and gym hours",
+      "question": "Do I need to book classes in advance?",
+      "answer": "[CLASS BOOKING POLICY]. Booking ahead helps you secure a spot in popular sessions.",
+      "link_text": "View classes",
+      "url": "https://yourgym.com/classes"
+    },
+    {
+      "id": "gym_085",
+      "category": "Classes, facilities, and gym hours",
+      "question": "What facilities does the gym have?",
+      "answer": "We have [FACILITIES LIST, e.g. cardio zone, strength area, free weights and functional training space].",
+      "link_text": "View facilities",
+      "url": "https://yourgym.com/facilities"
+    },
+    {
+      "id": "gym_086",
+      "category": "Classes, facilities, and gym hours",
+      "question": "Do you have lockers and changing rooms?",
+      "answer": "Yes. [LOCKER AND CHANGING ROOM DETAILS]. Please bring your own lock if required.",
+      "link_text": "View facilities",
+      "url": "https://yourgym.com/facilities"
+    },
+    {
+      "id": "gym_087",
+      "category": "Classes, facilities, and gym hours",
+      "question": "Is parking available?",
+      "answer": "[PARKING DETAILS]. Please contact us if you need directions or parking guidance.",
+      "link_text": "View facilities",
+      "url": "https://yourgym.com/facilities"
+    },
+    {
+      "id": "gym_088",
+      "category": "Classes, facilities, and gym hours",
+      "question": "Do you have women-only timings or areas?",
+      "answer": "[WOMEN-ONLY OPTIONS]. Please contact us for the latest details.",
+      "link_text": "Contact us",
+      "url": "https://yourgym.com/contact-us"
+    },
+    {
+      "id": "gym_089",
+      "category": "Classes, facilities, and gym hours",
+      "question": "When is the gym least crowded?",
+      "answer": "Mid-morning and early afternoon are usually quieter. Early mornings and evenings tend to be busiest.",
+      "link_text": "View hours",
+      "url": "https://yourgym.com/facilities"
+    },
+    {
+      "id": "gym_090",
+      "category": "Classes, facilities, and gym hours",
+      "question": "How do you maintain hygiene?",
+      "answer": "We clean equipment and common areas regularly. Members are also asked to wipe down equipment after use.",
+      "link_text": "View facilities",
+      "url": "https://yourgym.com/facilities"
+    },
+    {
+      "id": "gym_091",
+      "category": "Classes, facilities, and gym hours",
+      "question": "Can I bring a guest?",
+      "answer": "[GUEST POLICY]. Please check with the front desk or contact us before bringing a guest.",
+      "link_text": "Contact us",
+      "url": "https://yourgym.com/contact-us"
+    },
+    {
+      "id": "gym_092",
+      "category": "Classes, facilities, and gym hours",
+      "question": "Where is the gym located?",
+      "answer": "We are at [GYM ADDRESS, CITY]. You can find directions and contact details on our website.",
+      "link_text": "Get directions",
+      "url": "https://yourgym.com/contact-us"
+    },
+    {
+      "id": "gym_093",
+      "category": "Safety, medical boundaries, and professional referrals",
+      "question": "Is the gym safe for beginners?",
+      "answer": "Yes. Trainers teach correct form, start at a comfortable level and progress step by step.",
+      "link_text": "Know more",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_094",
+      "category": "Safety, medical boundaries, and professional referrals",
+      "question": "Do I need medical clearance before joining?",
+      "answer": "It is recommended if you have an injury, recent surgery, heart condition or other health concern. Your trainer will advise you.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_095",
+      "category": "Safety, medical boundaries, and professional referrals",
+      "question": "Do your trainers give medical advice?",
+      "answer": "No. Trainers provide exercise and lifestyle guidance but do not diagnose conditions or advise on medicines or treatment.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_096",
+      "category": "Safety, medical boundaries, and professional referrals",
+      "question": "Can you diagnose my pain or condition?",
+      "answer": "No. We cannot diagnose or treat medical conditions. Please see a qualified doctor for any diagnosis.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_097",
+      "category": "Safety, medical boundaries, and professional referrals",
+      "question": "When should I see a doctor before exercising?",
+      "answer": "Please consult a doctor if you have chest pain, dizziness, breathlessness, recent surgery, an ongoing injury or any health concern.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_098",
+      "category": "Safety, medical boundaries, and professional referrals",
+      "question": "What should I do if I feel unwell during a workout?",
+      "answer": "Stop immediately and tell a trainer or staff member. If symptoms are serious, seek medical help straight away.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_099",
+      "category": "Safety, medical boundaries, and professional referrals",
+      "question": "Do you have first aid and emergency support?",
+      "answer": "Yes. [FIRST AID AND EMERGENCY ARRANGEMENTS]. Staff are trained to respond and call for help when needed.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_100",
+      "category": "Safety, medical boundaries, and professional referrals",
+      "question": "Will you refer me to other professionals if needed?",
+      "answer": "Yes. If your needs go beyond fitness, we will suggest you consult a doctor, physiotherapist or dietitian.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_101",
+      "category": "Safety, medical boundaries, and professional referrals",
+      "question": "Is it safe to exercise with a chronic health condition?",
+      "answer": "Often yes with the right plan, but please check with your doctor first and share their advice with your trainer.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_102",
+      "category": "Safety, medical boundaries, and professional referrals",
+      "question": "Can pregnant women join?",
+      "answer": "Please consult your doctor first. With medical approval, trainers can plan suitable, low-risk exercise. [PREGNANCY POLICY]",
+      "link_text": "Contact us",
+      "url": "https://yourgym.com/contact-us"
+    },
+    {
+      "id": "gym_103",
+      "category": "Safety, medical boundaries, and professional referrals",
+      "question": "How is my health information protected?",
+      "answer": "We keep your health details confidential and use them only to personalise your plan, with your consent.",
+      "link_text": "Read the Privacy Policy",
+      "url": "https://yourgym.com/safety"
+    },
+    {
+      "id": "gym_104",
+      "category": "Safety, medical boundaries, and professional referrals",
+      "question": "What should I do if I get injured at the gym?",
+      "answer": "Tell a staff member right away. We will provide first aid and help you get medical attention if needed.",
+      "link_text": "Safety guidelines",
+      "url": "https://yourgym.com/safety"
+    }
+  ]
+}
